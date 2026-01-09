@@ -23,9 +23,7 @@
       </li>
     </ul>
 
-    <p v-if="tasks.length === 0" style="text-align:center;color:#666;">
-      Belum ada task 😴
-    </p>
+    
   </div>
 </template>
 
